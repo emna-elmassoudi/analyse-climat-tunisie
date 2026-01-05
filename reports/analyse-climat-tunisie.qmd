@@ -1,0 +1,30 @@
+---
+title: "Analyse des normales climatiques en Tunisie (1961–1990)"
+author: "Emna Elmassoudi"
+format: html
+toc: true
+number-sections: true
+lang: fr
+---
+
+## Introduction
+
+Ce rapport présente une analyse des normales climatiques en Tunisie sur la période **1961–1990**.
+L’objectif est d’étudier la saisonnalité des températures et des précipitations à l’aide de visualisations.
+
+## Données et méthodologie
+
+Les données utilisées proviennent de normales climatiques mensuelles.
+Les variables principales analysées sont :
+- Température moyenne (TMM)
+- Température minimale (TNM)
+- Température maximale (TXM)
+- Précipitations moyennes (RRTM)
+
+## Résultats
+
+*(Les graphiques et analyses seront ajoutés ici.)*
+
+## Conclusion
+
+Cette analyse met en évidence les caractéristiques du climat méditerranéen tunisien.
